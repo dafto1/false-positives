@@ -1,0 +1,62 @@
+
+# Core scientific libraries
+numpy
+scipy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+torchaudio
+keras
+
+# Gradient Boosting
+xgboost
+lightgbm
+catboost
+
+# NLP
+nltk
+spacy
+gensim
+transformers
+sentencepiece
+
+# Computer Vision
+opencv-python
+pillow
+scikit-image
+
+# Data handling & utilities
+joblib
+tqdm
+pyyaml
+
+# Experiment tracking
+mlflow
+wandb
+
+# AutoML
+autogluon
+optuna
+
+# Feature engineering
+category-encoders
+feature-engine
+
+# Kaggle & datasets
+kaggle
+datasets
+
+# Fraud / anomaly detection
+pyod
+river
